@@ -1,0 +1,4 @@
+#Anab Maulana Barik
+
+week 1:
+learning about git and basic unix commands
