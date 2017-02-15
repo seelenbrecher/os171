@@ -1,0 +1,4 @@
+#Anab Maulana Barik
+
+week 0:
+creating github repo and access badak server via ssh
