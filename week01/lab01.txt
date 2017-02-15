@@ -20,3 +20,4 @@ drwxr-xr-x  2 anab.maulana StafCS 4096 Feb 15 21:16 week09
 drwxr-xr-x  2 anab.maulana StafCS 4096 Feb 15 21:16 week10
 drwxr-xr-x  2 anab.maulana StafCS 4096 Feb 15 21:20 xtra
 /home/fasilkom/mahasiswa/a/anab.maulana/os171/week01
+Today is 15 Feb 2017 at 21:51:52
