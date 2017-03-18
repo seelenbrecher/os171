@@ -1,0 +1,9 @@
+w05-170314-10-LR-About: Memory Management From:Lecturer
+w05-170314-10-LR-About: Memory Management From:Lecturer
+w05-170314-11-LR-About: Memory Management From:Lecturer
+w05-170316-10-LR-About: Review Last Lecture From:Lecturer
+w05-170316-10-PS-About: Studying pass exams
+w05-170316-11-LR-About: Discuss about past exams
+w05-170318-13-PS-About: Doing lab 5
+w05-170318-13-PS-About: Doing lab5
+w05-170318-14-PS-About: Doing lab 5
