@@ -1,0 +1,7 @@
+Github Account : seelenbrecher
+URL Ulasan : http://anab-os.blogspot.co.id/2017/05/ulasan1-buffer-exploits.html
+URL Konten : http://youtu.be/rE5dW3BTpn4 , durasi 6:14
+Author: Tom Scott
+Pemetaan : week02
+revisi pertama : 18 Mei 2017
+revisi terakhir : 18 Mei 2017
